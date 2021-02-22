@@ -1,0 +1,7 @@
+{
+  "anf": {
+    "prefix": "anf",
+    "body": ["import AnimationImageFade from '@Animations/AnimationImageFade';"],
+    "description": "anf"
+  }
+}

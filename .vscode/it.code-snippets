@@ -1,0 +1,7 @@
+{
+  "it": {
+    "prefix": "it",
+    "body": ["import Styles from '@Themes';"],
+    "description": "it"
+  }
+}
