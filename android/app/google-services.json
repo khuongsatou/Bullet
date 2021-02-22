@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724520691274",
+    "project_id": "bullet-9cd5e",
+    "storage_bucket": "bullet-9cd5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724520691274:android:a747d452e224baec0468b3",
+        "android_client_info": {
+          "package_name": "com.bullet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724520691274-p3lc2k416c20m869bg5h8gh55kfc1fl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT6O5IWZ51dXGXfDcUDnl8CqaUsvTlxbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724520691274-p3lc2k416c20m869bg5h8gh55kfc1fl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
